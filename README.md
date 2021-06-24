@@ -19,7 +19,7 @@
 </p>
 
 # WhatsApp Bot
-#MATEO FINANCE
+# MATEO FINANCE
 
 ## INFORMATION:
 Script ini merupakan program WhatsApp Bot
